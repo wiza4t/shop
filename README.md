@@ -25,6 +25,27 @@ Aplikacija koristi MySQL bazu podataka i implementira autentifikaciju korisnika.
 - Upload slika proizvoda
 
 ---
+## 🖼️ Izgled aplikacije
+
+### 1. Lista proizvoda
+![Lista proizvoda](screenshots/1.png)
+
+### 2. Prikaz opisa proizvoda
+![Opis proizvoda](screenshots/2.png)
+
+### 3. Edit / izmjena proizvoda
+![Edit proizvoda](screenshots/3.png)
+
+### 4. Dodavanje proizvoda
+![Dodavanje proizvoda](screenshots/4.png)
+
+### 5. Login / korisnički meni (profil, logout)
+![Korisnik meni](screenshots/5.png)
+
+### 6. Pretraga (search funkcionalnost)
+![Pretraga](screenshots/6.png)
+
+---
 
 ## 🗄️ Baza podataka
 U projektu se nalazi SQL dump fajl:
